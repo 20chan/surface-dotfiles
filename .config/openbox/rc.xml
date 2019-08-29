@@ -256,28 +256,40 @@
     </keybind>
 
     <keybind key="W-C-Left">
-      <action name="ResizeRelative"><left>40</left></action>
+      <action name="ResizeRelative"><left>100</left></action>
     </keybind>
     <keybind key="W-C-Right">
-      <action name="ResizeRelative"><right>40</right></action>
+      <action name="ResizeRelative"><right>100</right></action>
     </keybind>
     <keybind key="W-C-Up">
-      <action name="ResizeRelative"><top>10</top></action>
+      <action name="ResizeRelative"><top>50</top></action>
     </keybind>
     <keybind key="W-C-Down">
-      <action name="ResizeRelative"><bottom>10</bottom></action>
+      <action name="ResizeRelative"><bottom>50</bottom></action>
     </keybind>
     <keybind key="W-S-Left">
-      <action name="ResizeRelative"><right>-40</right></action>
+      <action name="ResizeRelative"><right>-100</right></action>
     </keybind>
     <keybind key="W-S-Right">
-      <action name="ResizeRelative"><left>-40</left></action>
+      <action name="ResizeRelative"><left>-100</left></action>
     </keybind>
     <keybind key="W-S-Up">
-      <action name="ResizeRelative"><bottom>-10</bottom></action>
+      <action name="ResizeRelative"><bottom>-50</bottom></action>
     </keybind>
     <keybind key="W-S-Down">
-      <action name="ResizeRelative"><top>-10</top></action>
+      <action name="ResizeRelative"><top>-50</top></action>
+    </keybind>
+    <keybind key="W-S-C-Left">
+      <action name="MoveRelative"><x>-100</x></action>
+    </keybind>
+    <keybind key="W-S-C-Right">
+      <action name="MoveRelative"><x>100</x></action>
+    </keybind>
+    <keybind key="W-S-C-Up">
+      <action name="MoveRelative"><y>-50</y></action>
+    </keybind>
+    <keybind key="W-S-C-Down">
+      <action name="MoveRelative"><y>50</y></action>
     </keybind>
 
     <keybind key="W-Left">

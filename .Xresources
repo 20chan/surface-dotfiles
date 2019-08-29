@@ -9,6 +9,11 @@ Xft.rgba: rgb
 URxvt.inputMethod: ibus
 URxvt.preeditType: OverTheSpot
 
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+
 URxvt.font: xft:Iosevka Term SS04:pixelsize=42:antialias=true,xft:Iosevka:pixelsize=42,xft:Iosevka Nerd Font Complete:pixelsize=42,xft:D2Coding:pixelsize=42,xft:Font Awesome 5 Free:pixelsize=42
 URxvt.letterSpace: -1
 

@@ -133,3 +133,5 @@ ibus-daemon -dx
 source ~/.cargo/env
 
 /bin/cat ~/.cache/wal/sequences
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
