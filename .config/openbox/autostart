@@ -1,0 +1,7 @@
+# polybar mybar &
+polybar -c ~/.config/polybar/config.ini main &
+dunst &
+touchegg &
+fusuma &
+conky --daemonize
+# tint2 &
