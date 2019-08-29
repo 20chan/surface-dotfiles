@@ -251,6 +251,10 @@
       <action name="ToggleShowDesktop"/>
     </keybind>
     <!-- Keybindings for custom executes -->
+    <keybind key="W-m">
+      <action name="ToggleMaximizeFull"/>
+    </keybind>
+
     <keybind key="W-C-Left">
       <action name="ResizeRelative"><left>40</left></action>
     </keybind>

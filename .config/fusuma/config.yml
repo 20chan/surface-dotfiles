@@ -2,27 +2,15 @@ swipe:
     3:
         left:
             command: 'xdotool key alt+Tab'
-
         right:
             command: 'xdotool key shift+alt+Tab'
         up:
-            command: 'amixer set Master 5%+'
-            threshold: 0.1
-            interval: 0.1
-
+            command: 'xdotool key super+m'
         down:
-            command: 'amixer set Master 5%-'
-            threshold: 0.1
-            interval: 0.1
+            command: 'xdotool key super+d'
     4:
         left:
             command: 'xdotool key ctrl+alt+Right'
-            threshold: 1
-            interval: 1
-
         right:
             command: 'xdotool key ctrl+alt+Left'
-            threshold: 1
-            interval: 1
-
 
