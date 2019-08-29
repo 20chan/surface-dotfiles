@@ -1,0 +1,51 @@
+Xft.dpi: 300
+Xft.autohint: 0
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+! ibus
+URxvt.inputMethod: ibus
+URxvt.preeditType: OverTheSpot
+
+URxvt.font: xft:Iosevka Term SS04:pixelsize=42:antialias=true,xft:Iosevka:pixelsize=42,xft:Iosevka Nerd Font Complete:pixelsize=42,xft:D2Coding:pixelsize=42,xft:Font Awesome 5 Free:pixelsize=42
+URxvt.letterSpace: -1
+
+URxvt.scrollBar: false
+
+URxvt.foreground:	#d0d0d0
+URxvt.background:	#151515
+URxvt.cursorColor:	#d0d0d0
+
+! black
+URxvt.color0:		#151515
+URxvt.color8:		#505050
+
+! red
+URxvt.color1:		#ac4142
+URxvt.color9:		#ac4142
+
+! green
+URxvt.color2:		#90a959
+URxvt.color10:		#90a959
+
+! yellow
+URxvt.color3:		#f4bf75
+URxvt.color11:		#f4bf75
+
+! blue
+URxvt.color4:		#6a9fb5
+URxvt.color12:		#6a9fb5
+
+! magenta
+URxvt.color5:		#aa759f
+URxvt.color13:		#aa759f
+
+! cyan
+URxvt.color6:		#75b5aa
+URxvt.color14:		#75b5aa
+
+! white
+URxvt.color7:		#d0d0d0
+URxvt.color15:		#f5f5f5
