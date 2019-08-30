@@ -1,5 +1,6 @@
 # polybar mybar &
-polybar -c ~/.config/polybar/config.ini main &
+
+~/.config/polybar/launch.sh
 dunst &
 touchegg &
 fusuma &
