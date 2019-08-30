@@ -10,5 +10,6 @@ check issues on [surface-arch](https://github.com/20chan/surface-arch)
 
 ## FYI
 
-`.config/xorg.conf.d` is mounted as bind to `/etc/X11/xorg.conf.d/`
+- `.config/xorg.conf.d` is mounted as bind to `/etc/X11/xorg.conf.d/`
+- `.config/acpi` is mounted as bind to `/etc/acpi/`
 
